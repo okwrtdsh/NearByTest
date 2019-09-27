@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NearByTest</string>
+    <string name="activity_main_button_start_advertising_text">Start Advertising</string>
+    <string name="activity_main_button_stop_advertising_text">Stop Advertising</string>
+    <string name="activity_main_button_start_discovery_text">Start Discovery</string>
+    <string name="activity_main_button_stop_discovery_text">Stop Discovery</string>
 </resources>
